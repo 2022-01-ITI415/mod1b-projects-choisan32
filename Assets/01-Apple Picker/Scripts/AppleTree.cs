@@ -11,7 +11,7 @@ public class AppleTree : MonoBehaviour
     // Speed at which AppleTree moves
     public float speed = 1f;
     // Distance where AppleTree turns around
-    public float leftAndRightEdge = 10f;
+    public float leftAndRightEdge = 20f;
     // Chance that the AppleTree will change directions
     public float chanceToChangeDirections = 0.1f;
     // Rate at which Apples will be instantiated
