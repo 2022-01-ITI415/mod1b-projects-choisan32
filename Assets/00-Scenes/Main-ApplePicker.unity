@@ -374,7 +374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   applePrefab: {fileID: 0}
-  speed: 1
+  speed: 10
   leftAndRightEdge: 10
   chanceToChangeDirections: 0.1
   secondsBetweenAppleDrops: 1
