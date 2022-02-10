@@ -306,6 +306,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1814292468892088374, guid: b34cfcefd3d08f04f89f0ac9c0f9b90a, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8198351720517164178, guid: b34cfcefd3d08f04f89f0ac9c0f9b90a, type: 3}
       propertyPath: m_Name
       value: AppleTree
@@ -373,8 +377,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a12d96e5bf85654ca017dc0dca39aca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  applePrefab: {fileID: 0}
+  applePrefab: {fileID: 9116964512250645547, guid: 39273ad263b8c124fbd5dccdbeb5cfa8, type: 3}
   speed: 10
-  leftAndRightEdge: 10
-  chanceToChangeDirections: 0.1
+  leftAndRightEdge: 20
+  chanceToChangeDirections: 0.02
   secondsBetweenAppleDrops: 1
