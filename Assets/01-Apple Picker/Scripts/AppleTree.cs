@@ -6,6 +6,7 @@ public class AppleTree : MonoBehaviour
 {
     [Header("Set in Inspector")]
 
+
     // Prefab for instantiating apples
     public GameObject applePrefab;
     // Speed at which AppleTree moves
